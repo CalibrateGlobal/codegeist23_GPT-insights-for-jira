@@ -13,7 +13,7 @@ So, I wanted to check it first hand. I started to incorporate AI into my life. F
 
 After using LLM for almost a year, I see **many** real-world applications for LLM (Large Language Models), like Chat GPT, to increase productivity, foster innovation and have more information at our fingertips faster.  All of those things **go beyond the classic TL; DRs (text summaries).**   The more you use LLMs, the more you understand it is all about '*how you use it'*. To the point that even a new profession came from it, the so-called [Prompt Engineering](https://en.wikipedia.org/wiki/Prompt_engineering).
 
-It became clear to me that whatever we build using an LLM needs to have a **human input and guidance** and be as transparent as possible. That will be a recurrent theme. AI, without human guidance, tends to get off the rails or even [hallucinate](https://en.wikipedia.org/wiki/Hallucination_%28artificial_intelligence%29). 
+It became clear to me that whatever we build using an LLM needs to have a **human input and guidance** and be as transparent as possible. That will be a recurrent theme. AI, without human guidance, tends to go off the rails or even [hallucinate](https://en.wikipedia.org/wiki/Hallucination_%28artificial_intelligence%29). 
 
 It is not *us vs them* (or at least I hope so..😥). It is not AI reading your mind and fully anticipating what you want (at least, just yet). It is AI + humans. *#StrongerTogether*
 
@@ -257,7 +257,7 @@ This is the list of some of the challenges we ran into during the development of
 ## 💪 Accomplishments that we're proud of 
 - 📝 **Edit responses**. We really believe in this AI + Human theme. And this is a good example of that. Also, we like the concept of living the 'ticket better than you found it'.
 	- Also, that edited/original toggle shows you what has also changed. So we keep the integrity of the original message, too.
--  🔃 ***'Smart'* caching**. We are very happy with how this turned out. This was one of our main concerns when creating an app heavily relying on a paid API. Implementing this makes it more cost efficient. Technically was also really cool to come up with the right data structures that would make querying more efficient.
+-  🔃 **Smart caching**. We are very happy with how this turned out. This was one of our main concerns when creating an app heavily relying on a paid API. Implementing this makes it more cost efficient. Technically was also really cool to come up with the right data structures that would make querying more efficient.
 
 - 💬 **Live chat**. Talking '*with*' your ticket. That is its own section. We like the possibilities it can bring. Particularly useful for long tickets or long comment threads. We also added some `system` constraints, so the assistant will only answer the questions if they are around the ticket and make sense in the ticket context.
 - 📊 **Usage stats**. We love data, we like stats. Being able to monitor what has been spent in total  and how it's being used it's important.
