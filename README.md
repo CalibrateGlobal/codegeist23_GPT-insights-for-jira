@@ -1,6 +1,6 @@
 
 ## 👋 Hello World 
-🤘 Hi everyone! I'm David from 🌶️ [Chili Shelf](www.chilishelf.com), and I'm super thrilled to show you what we've been working on for this Codegeist'23 (our first one!)
+🤘 Hi everyone! I'm David from 🌶️ [Chili Shelf](https://www.chilishelf.com), and I'm super thrilled to show you what we've been working on for this Codegeist'23 (our first one!)
   
 ## 💡 Inspiration 
 I think it's fair to say that many people were blown away when we saw Chat GPT 🤯. At least for me, it was a jaw-drop moment. The possibilities seemed endless. So you can imagine what my reaction was when Open AI made their APIs public:
